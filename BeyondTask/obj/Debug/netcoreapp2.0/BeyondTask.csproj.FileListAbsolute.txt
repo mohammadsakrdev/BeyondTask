@@ -1,0 +1,11 @@
+E:\task\Beyond\BeyondTask\bin\Debug\netcoreapp2.0\BeyondTask.deps.json
+E:\task\Beyond\BeyondTask\bin\Debug\netcoreapp2.0\BeyondTask.runtimeconfig.json
+E:\task\Beyond\BeyondTask\bin\Debug\netcoreapp2.0\BeyondTask.runtimeconfig.dev.json
+E:\task\Beyond\BeyondTask\bin\Debug\netcoreapp2.0\BeyondTask.dll
+E:\task\Beyond\BeyondTask\bin\Debug\netcoreapp2.0\BeyondTask.pdb
+E:\task\Beyond\BeyondTask\obj\Debug\netcoreapp2.0\BeyondTask.csprojResolveAssemblyReference.cache
+E:\task\Beyond\BeyondTask\obj\Debug\netcoreapp2.0\BeyondTask.csproj.CoreCompileInputs.cache
+E:\task\Beyond\BeyondTask\obj\Debug\netcoreapp2.0\BeyondTask.AssemblyInfoInputs.cache
+E:\task\Beyond\BeyondTask\obj\Debug\netcoreapp2.0\BeyondTask.AssemblyInfo.cs
+E:\task\Beyond\BeyondTask\obj\Debug\netcoreapp2.0\BeyondTask.dll
+E:\task\Beyond\BeyondTask\obj\Debug\netcoreapp2.0\BeyondTask.pdb
